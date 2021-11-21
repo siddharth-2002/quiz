@@ -1,12 +1,12 @@
 # Quiz Game
 
-OBJECTIVE OF THE PROJECT :
+#OBJECTIVE OF THE PROJECT# :
 
 The Project mainly aims to create an simple  Quiz game using an If-else-elif statement.
 
 
 
-SYSTEM REQUIREMENT FOR THE PROJECT:
+#SYSTEM REQUIREMENT FOR THE PROJECT#:
  
  1)Python 3.6 & above for better performance     (   Not less than 2.7 ),
 
@@ -17,7 +17,7 @@ SYSTEM REQUIREMENT FOR THE PROJECT:
  
 
 
-FLOW OF PROJECT :
+#FLOW OF PROJECT# :
 
 1.)Initialising and welcoming the user .
 
